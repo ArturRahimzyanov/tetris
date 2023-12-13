@@ -1,5 +1,7 @@
 # Tetris
-tetris на языке программирования ПЛК ST 
+
+ - tetris на языке программирования ПЛК ST
+ - программу можно открыть в среде CoDeSys 2.3v
 
 ![image](https://github.com/ArturRahimzyanov/tetris/assets/110277996/fc408487-c298-4809-9945-3576f67089d4)
 ![image](https://github.com/ArturRahimzyanov/tetris/assets/110277996/cc6407c3-83e4-40b7-8082-8bafa3fe2994)
